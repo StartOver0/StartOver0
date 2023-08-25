@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harshit Rawat
-=====================================================================================================================================
+Hi 👋
+My name is Harshit Rawat
+==============================
 
 Web Developer
 -------------
 
-*   ✉️  You can contact me at [harshitrawat048@gmail.com](mailto:harshitrawat048@gmail.com)
+* ✉️  You can contact me at [harshitrawat048@gmail.com](mailto:harshitrawat048@gmail.com)
