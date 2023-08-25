@@ -22,14 +22,3 @@ I am a student currently pursuing my B.Tech from Uttaranchal University, Uttarak
 * ✉️  You can contact me at [harshitrawat048@gmail.com](mailto:harshitrawat048@gmail.com)
 * 🤝  I'm open to collaborating on web based projects
 * ⚡  Feel free to checkout my CP profile: [kuma10](https://codeforces.com/profile/kuma10)
-
-### Skills
-
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/startover0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/harshit-rawat-83034120b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
