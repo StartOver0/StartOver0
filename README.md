@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi 👋 I am Harshit Rawat
 ==============================
 
-I am a student currently pursuing my B.Tech from Uttaranchal University, Uttarakhand. I possess a good understanding of web technologies, design principles, and coding languages for creating good digital experiences.
+I am a student currently pursuing my B.Tech from Uttaranchal University, Uttarakhand. I am adept and possess a good understanding of web technologies, design principles, and coding languages for creating good digital experiences.
 
 * 🌍  I'm based in Uttarakhand, Dehradun
 * ✉️  You can contact me at [harshitrawat048@gmail.com](mailto:harshitrawat048@gmail.com)
