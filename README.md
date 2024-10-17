@@ -21,4 +21,4 @@ I am a student currently pursuing my B.Tech from Uttaranchal University, Uttarak
 * 🌍  I'm based in Uttarakhand, Dehradun
 * ✉️  You can contact me at [harshitrawat048@gmail.com](mailto:harshitrawat048@gmail.com)
 * 🤝  I'm open to collaborating on web based projects
-* ⚡  Feel free to checkout my CP profile: [kuma10](https://codeforces.com/profile/kuma10)
+* ⚡  Feel free to checkout my CP profile: [dasher001](https://codeforces.com/profile/dasher001)
